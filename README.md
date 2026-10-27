@@ -12,6 +12,10 @@ Workflow
    Runs SQL queries against the SQLite database and exports CSV tables for Power BI.
 3. Build dashboard — Power BI
    Imports the CSV outputs and presents key metrics and interactive charts.
+
+
+   <img width="1349" height="776" alt="image" src="https://github.com/user-attachments/assets/d0be068e-e296-45c3-a353-c8b43b40aa0a" />
+
 Dashboard Features
 - KPI cards for revenue, quantity sold, revenue per customer, return percentage, return count, and return value
 - Monthly revenue and returns trends
