@@ -25,6 +25,8 @@ Dashboard Features
 - Customer activity by active months
 - Average order value and average price over time
 - Slicers for customer type, year, and country
+
+  
 Dataset
 The project uses the Online Retail II dataset from the UCI Machine Learning Repository. Place online_retail_II.xlsx in the project folder alongside the Python scripts. The workbook should contain the sheets Year 2009-2010 and Year 2010-2011.
 Run Locally
